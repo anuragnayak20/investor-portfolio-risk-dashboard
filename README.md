@@ -1,76 +1,68 @@
-# investor-portfolio-risk-dashboard
-📊 Investor Portfolio Risk Dashboard (Excel Project)
-📁 Project Type: Excel Dashboard | Domain: Finance | Skill Level: Beginner–Intermediate
-🧠 Project Overview
-This project simulates a real-world use case where a financial advisor tracks the portfolio performance, risk level, and asset allocation of multiple retail investors. Built entirely in Excel, this dashboard helps visualize returns, identify risk exposure, and provide data-driven insights for rebalancing portfolios.
+# 📊 Investor Portfolio Risk Dashboard (Excel Project)
 
-It was designed as a portfolio-building project to strengthen my data cleaning, analysis, and presentation skills while learning the fundamentals of investing.
+### 📁 Project Type: Excel Dashboard  
+### 🏷️ Domain: Finance  
 
-🎯 Objectives
-Analyze multiple investors’ asset allocations across stocks, bonds, mutual funds, gold, and cash
+---
 
-Track portfolio performance over time using daily asset price data
+## 🧠 Project Overview
 
-Evaluate portfolio risk using metrics like volatility and diversification
+This project simulates a real-world use case where a financial advisor tracks the **portfolio performance**, **risk level**, and **asset allocation** of multiple retail investors. Built entirely in Excel, this dashboard helps visualize returns, identify risk exposure, and provide data-driven insights for rebalancing portfolios.
 
-Build a clean, interactive Excel dashboard for insights and presentation
+It's a **portfolio-building project** to practice data cleaning, analysis, and presentation skills while learning the fundamentals of investing.
 
-🛠️ Tools & Techniques Used
-Microsoft Excel
+---
 
-Power Query (for data cleaning)
+## 🎯 Objectives
 
-PivotTables & PivotCharts
+- Analyzing multiple investors’ asset allocations across stocks, bonds, mutual funds, gold, and cash  
+- Tracking portfolio performance over time using daily asset price data  
+- Evaluating portfolio risk using metrics like volatility and diversification  
+- Building a clean, interactive Excel dashboard for insights and presentation  
 
-Conditional Formatting
+---
 
-Data Validation, Named Ranges, and Form Controls
+## 🛠️ Tools & Techniques Used
 
-Advanced Excel formulas: XLOOKUP, IFERROR, SUMIFS, INDEX-MATCH
+- **Microsoft Excel**
+  - Power Query (for data cleaning)
+  - PivotTables & PivotCharts
+  - Conditional Formatting
+  - Data Validation, Named Ranges, and Form Controls
+  - Advanced Excel formulas: `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
 
-📈 Key Features
-📌 Daily asset performance tracker for 5 fictional clients
+---
 
-📊 Portfolio allocation visualized through interactive donut charts
+## 📈 Key Features
 
-📉 Risk/return KPIs for each portfolio including volatility estimates
+- 📌 Daily asset performance tracker for 5 fictional clients  
+- 📊 Portfolio allocation visualized through interactive donut charts  
+- 📉 Risk/return KPIs for each portfolio including volatility estimates  
+- 🚦 Conditional formatting to flag risky allocation scenarios  
+- 📂 Organized Excel sheets with cleaned data, KPIs, and summary dashboards  
 
-🚦 Conditional formatting to flag risky allocation scenarios
+---
 
-📂 Organized Excel sheets with cleaned data, KPIs, and summary dashboards
+## ✅ Skills Demonstrated
 
-📁 Folder Structure
-kotlin
-Copy
-Edit
-📦 investor-portfolio-risk-dashboard
- ┣ 📂 data
- ┃ ┗ 📄 raw_asset_prices.csv
- ┣ 📂 dashboard
- ┃ ┗ 📄 final_dashboard.xlsx
- ┣ 📂 analysis
- ┃ ┗ 📄 portfolio_kpi_calculations.xlsx
- ┗ 📄 README.md
-🧑‍💼 Target Audience
-Recruiters evaluating Excel/data analysis skills
+| Category       | Skills                                       |
+|----------------|----------------------------------------------|
+| Data Cleaning  | Power Query, handling duplicates, structuring raw tables |
+| Analysis       | Portfolio returns, allocation %, volatility  |
+| Presentation   | Interactive dashboards, data storytelling    |
+| Excel Mastery  | XLOOKUP, SUMIFS, data validation, PivotTables |
 
-Aspiring data analysts looking for project inspiration
+---
 
-Anyone curious about financial portfolio analytics
+## 📌 Project Status
 
-✅ Skills Demonstrated
-Category	Skills
-Data Cleaning	Power Query, duplicates handling
-Analysis	Portfolio returns, allocation %, volatility
-Presentation	Interactive dashboards, storytelling
-Excel Mastery	XLOOKUP, SUMIFS, data validation, PivotTables
+🟢 **In Progress** — Data cleaning and initial KPI calculations complete. Final dashboard in development.
 
-📌 Status
-🟢 In Progress — Data cleaning and initial KPI calculations complete. Final dashboard in development.
+---
 
-💬 Future Improvements
-Add macro-enabled PDF report generation
+## 💬 Future Improvements
 
-Simulate live market data (optional Python extension)
+- Adding macro-enabled PDF report generation  
+- Simulate]ing live market data (via Python extension)  
+- Comparing portfolio returns to Nifty 50 benchmark  
 
-Compare portfolio returns to Nifty 50 benchmark
