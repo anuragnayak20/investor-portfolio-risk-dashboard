@@ -9,7 +9,7 @@
 
 This project simulates a real-world use case where a financial advisor tracks the **portfolio performance**, **risk level**, and **asset allocation** of multiple retail investors. Built entirely in Excel, this dashboard helps visualize returns, identify risk exposure, and provide data-driven insights for rebalancing portfolios.
 
-It's a **portfolio-building project** to practice data cleaning, analysis, and presentation skills while learning the fundamentals of investing.
+It's a **portfolio-building project** to practice data cleaning, analysis, and presentation skills while learning the fundamentals of investing. The dataset used for now has been created by ChatGPT, it had dirty data initially.
 
 ---
 
@@ -56,6 +56,6 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 
 - Power Query applied.
 - Adding macro-enabled PDF report generation  
-- Simulate]ing live market data (via Python extension + large Kaggle dataset)  
+- Simulating live market data (via Python extension + large Kaggle dataset)  
 - Comparing portfolio returns to Nifty 50 benchmark  
 
