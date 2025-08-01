@@ -25,21 +25,19 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 ## 🛠️ Tools & Techniques Used
 
 - **Microsoft Excel**
-  - Power Query (for data cleaning)
-  - PivotTables & PivotCharts
   - Conditional Formatting
-  - Data Validation, Named Ranges, and Form Controls
-  - Advanced Excel formulas: `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
+  - Data Cleaning : Datatypes, Missing Values, Outliers
+  - Data Visualization : Charts, Slicers, PivotCharts
+  - Advanced Excel formulas: `VLOOKUP`, `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
 
 ---
 
 ## 📈 Key Features
 
-- 📌 Daily asset performance tracker for 5 fictional clients  
-- 📊 Portfolio allocation visualized through interactive donut charts  
-- 📉 Risk/return KPIs for each portfolio including volatility estimates  
-- 🚦 Conditional formatting to flag risky allocation scenarios  
-- 📂 Organized Excel sheets with cleaned data, KPIs, and summary dashboards  
+- 📌 Daily Returns tracker for 5 fictional clients  
+- 📊 Portfolio allocation visualized through interactive charts  
+- 📉 Risk/return trend for each portfolio including volatility estimates   
+- 📂 Organized Excel sheets with cleaned data and a dynamic dashboard  
 
 ---
 
@@ -47,22 +45,17 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 
 | Category       | Skills                                       |
 |----------------|----------------------------------------------|
-| Data Cleaning  | Power Query, handling duplicates, structuring raw tables |
+| Data Cleaning  | Dataypes, missing values, outliers, handling duplicates, structuring raw tables |
 | Analysis       | Portfolio returns, allocation %, volatility  |
-| Presentation   | Interactive dashboards, data storytelling    |
-| Excel Mastery  | XLOOKUP, SUMIFS, data validation, PivotTables |
-
----
-
-## 📌 Project Status
-
-🟢 **In Progress** — Data cleaning and initial KPI calculations complete. Final dashboard in development.
+| Presentation   | Interactive dashboards   |
+| Excel Mastery  | VLOOKUP, XLOOKUP, SUMIFS, data validation, PivotTables |
 
 ---
 
 ## 💬 Future Improvements
 
+- Power Query applied.
 - Adding macro-enabled PDF report generation  
-- Simulate]ing live market data (via Python extension)  
+- Simulate]ing live market data (via Python extension + large Kaggle dataset)  
 - Comparing portfolio returns to Nifty 50 benchmark  
 
