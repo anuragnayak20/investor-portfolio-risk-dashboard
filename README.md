@@ -13,13 +13,19 @@ Analyzing and tracking asset data of 5 fictional clients to yield risk, return a
 
 ## Dashboard Features
 
--  Daily Returns & Cumulative Returns trend analysis 
+1.  Daily Returns & Cumulative Returns trend analysis 
+
 ![alt text](image-1.png)
--  Portfolio allocation visualization
+
+2.  Portfolio allocation visualization
+
 ![alt text](image-2.png)
--  Risk/return trend analysis + volatility estimates per client
+
+3.  Risk/return trend analysis + volatility estimates per client
+
 ![alt text](image-3.png)
--  Slicers to focus on each client and time(month)
+
+4. Slicers to focus on each client and time(month)
 
   ![alt text](image-4.png)
 
