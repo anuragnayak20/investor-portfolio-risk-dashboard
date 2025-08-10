@@ -6,11 +6,10 @@ Analyzing and tracking asset data of 5 fictional clients to yield risk, return a
 
 ## Tools & Techniques Used
 
-- **Microsoft Excel**
-  - Conditional Formatting
-  - Data Cleaning : Datatypes, Missing Values, Outliers
-  - Data Visualization : Charts, Slicers, PivotCharts
-  - Advanced Excel formulas: `VLOOKUP`, `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
+- Conditional Formatting
+- Data Cleaning : Datatypes, Missing Values, Outliers
+- Data Visualization : Charts, Slicers, PivotCharts
+- Advanced Excel formulas: `VLOOKUP`, `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
 
 ## Dashboard Features
 
