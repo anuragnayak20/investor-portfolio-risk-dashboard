@@ -1,11 +1,8 @@
 # Investor Portfolio Risk Dashboard (Excel Project)
 
-## Objectives
+## Objectives 
 
-- Analyzing multiple investors’ asset allocations across stocks, bonds, mutual funds, gold, and cash  
-- Tracking portfolio performance over time using daily asset price data  
-- Evaluating portfolio risk using metrics like volatility and diversification  
-- Building a clean, interactive Excel dashboard for insights and presentation  
+Analyzing and tracking asset data of 5 fictional clients to yield risk, return analysis of each client and compare performance of each client's porfolio.
 
 ## Tools & Techniques Used
 
