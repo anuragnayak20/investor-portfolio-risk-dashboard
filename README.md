@@ -7,7 +7,6 @@
 - Evaluating portfolio risk using metrics like volatility and diversification  
 - Building a clean, interactive Excel dashboard for insights and presentation  
 
-
 ## Tools & Techniques Used
 
 - **Microsoft Excel**
@@ -16,18 +15,16 @@
   - Data Visualization : Charts, Slicers, PivotCharts
   - Advanced Excel formulas: `VLOOKUP`, `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
 
----
-
 ## Dashboard Features
 
--  Daily Returns trend analysis 
-![alt text](image.png)
--  Cumulative Returns trend analysis
+-  Daily Returns & Cumulative Returns trend analysis 
+![alt text](image-1.png)
 -  Portfolio allocation visualization
--  Risk/return trend analysis + volatility estimates per client 
+![alt text](image-2.png)
+-  Risk/return trend analysis + volatility estimates per client
+![alt text](image-3.png)
 -  Slicers to focus on each client and time(month)
-
----
+![alt text](image-4.png)
 
 ## Skills Demonstrated
 
@@ -38,7 +35,6 @@
 | Presentation   | Interactive dashboards   |
 | Excel Mastery  | VLOOKUP, XLOOKUP, SUMIFS, data validation, PivotTables |
 
----
 
 ## Future Improvements
 
