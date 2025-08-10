@@ -11,7 +11,7 @@ Analyzing and tracking asset data of 5 fictional clients to yield risk, return a
 - Data Visualization : Charts, Slicers, PivotCharts
 - Advanced Excel formulas: `VLOOKUP`, `XLOOKUP`, `IFERROR`, `SUMIFS`, `INDEX-MATCH`
 
-## Dashboard Features
+## Dashboard Features (in data/cleaned_dataset.xlsx)
 
 1.  Daily Returns & Cumulative Returns trend analysis 
 
