@@ -1,10 +1,5 @@
 # Investor Portfolio Risk Dashboard (Excel Project)
 
-### Project Type: Excel Dashboard  
-### Domain: Finance  
-
----
-
 ## Objectives
 
 - Analyzing multiple investors’ asset allocations across stocks, bonds, mutual funds, gold, and cash  
@@ -12,7 +7,6 @@
 - Evaluating portfolio risk using metrics like volatility and diversification  
 - Building a clean, interactive Excel dashboard for insights and presentation  
 
----
 
 ## Tools & Techniques Used
 
