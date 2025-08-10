@@ -1,19 +1,11 @@
-# 📊 Investor Portfolio Risk Dashboard (Excel Project)
+# Investor Portfolio Risk Dashboard (Excel Project)
 
-### 📁 Project Type: Excel Dashboard  
-### 🏷️ Domain: Finance  
-
----
-
-## 🧠 Project Overview
-
-This project simulates a real-world use case where a financial advisor tracks the **portfolio performance**, **risk level**, and **asset allocation** of multiple retail investors. Built entirely in Excel, this dashboard helps visualize returns, identify risk exposure, and provide data-driven insights for rebalancing portfolios.
-
-It's a **portfolio-building project** to practice data cleaning, analysis, and presentation skills while learning the fundamentals of investing. The dataset used for now has been created by ChatGPT, it had dirty data initially.
+### Project Type: Excel Dashboard  
+### Domain: Finance  
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyzing multiple investors’ asset allocations across stocks, bonds, mutual funds, gold, and cash  
 - Tracking portfolio performance over time using daily asset price data  
@@ -22,7 +14,7 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Microsoft Excel**
   - Conditional Formatting
@@ -32,16 +24,18 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 
 ---
 
-## 📈 Key Features
+## Dashboard Features
 
-- 📌 Daily Returns tracker for 5 fictional clients  
-- 📊 Portfolio allocation visualized through interactive charts  
-- 📉 Risk/return trend for each portfolio including volatility estimates   
-- 📂 Organized Excel sheets with cleaned data and a dynamic dashboard  
+-  Daily Returns trend analysis 
+![alt text](image.png)
+-  Cumulative Returns trend analysis
+-  Portfolio allocation visualization
+-  Risk/return trend analysis + volatility estimates per client 
+-  Slicers to focus on each client and time(month)
 
 ---
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 | Category       | Skills                                       |
 |----------------|----------------------------------------------|
@@ -52,9 +46,9 @@ It's a **portfolio-building project** to practice data cleaning, analysis, and p
 
 ---
 
-## 💬 Future Improvements
+## Future Improvements
 
-- Power Query applied.
+- Power Query application
 - Adding macro-enabled PDF report generation  
 - Simulating live market data (via Python extension + large Kaggle dataset)  
 - Comparing portfolio returns to Nifty 50 benchmark  
