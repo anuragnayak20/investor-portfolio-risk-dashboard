@@ -24,6 +24,7 @@
 -  Risk/return trend analysis + volatility estimates per client
 ![alt text](image-3.png)
 -  Slicers to focus on each client and time(month)
+
 ![alt text](image-4.png)
 
 ## Skills Demonstrated
